@@ -13,7 +13,6 @@
   <a href="mailto:chaitanya21kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/chaitanya-kumar-071062296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/chaitanya21kumar"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/></a>
-  <a href="https://www.codechef.com/users/chaitanya21kumar"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/></a>
   <a href="https://chaitanya21kumar.github.io/Portfolio-Website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
 </p>
 
