@@ -20,9 +20,6 @@
   <a href="https://codeforces.com/profile/chaitanya21kumar">
     <img src="https://img.shields.io/badge/🤖-Codeforces-0057D9?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
   </a>
-  <a href="https://www.codechef.com/users/chaitanya21kumar">
-    <img src="https://img.shields.io/badge/🍽️-CodeChef-311D3F?style=for-the-badge&logo=codechef" alt="CodeChef"/>
-  </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/c9ba5dfe-c06d-4315-9f98-486ffadafa34">
     <img src="https://img.shields.io/badge/☁️-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud" alt="Google Cloud"/>
   </a>
