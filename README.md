@@ -20,11 +20,11 @@
 ---
 
 ## 🧠 About Me
-- 🧩 Building in **Blockchain**, **C++**, **Web3**, and **Embedded Systems**
-- 🔭 Currently working on a **Decentralized Voting Platform** using Solidity, React, Node.js, MongoDB
-- 🔬 Developed **firmware for STM32**, UART, timers, GPIO, sensors
-- 💻 Solved **500+ DSA Problems** | Consistent CP practice on Codeforces, CodeChef, Leetcode
-- 🧠 Strong interest in **Bitcoin internals**, BIPs, PSBTs, secure firmware
+- 🔭 Passionate about **Blockchain**, **C++**, **Embedded Systems**, and **DSA**
+- 🛠️ Developed firmware for **STM32**, handled **UART**, timers, GPIO, sensors
+- 🧠 Strong knowledge of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
+- 🌱 Currently building a **Decentralized Voting Platform**
+- 🎯 Solved **500+ DSA problems** across CF/CC/LC | Active CP Streak: **199+ days**
 
 ---
 
@@ -36,11 +36,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Always Visible Version)
 
+<!-- Using shields fallback for reliability -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya21kumar&show_icons=true&theme=radical&count_private=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanya21kumar&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya21kumar&theme=tokyonight&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanya21kumar&theme=tokyonight&hide_border=false" width="48%"/>
 </p>
 
 ---
@@ -48,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanya21kumar&theme=radical&margin-w=15&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanya21kumar&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -71,26 +72,26 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🔐 [Decentralized Voting DApp](https://github.com/chaitanya21kumar/decentralised-voting-system) | Solidity · React · Node.js | Smart contract-based voting system with MongoDB |
-| 🎯 [Can You Hack It? (CTF)](https://github.com/chaitanya21kumar/Can-you-hack-it) | HTML · JS · CSS | CTF-style hacking game for logic & web security |
-| 🌐 [Portfolio Website](https://github.com/chaitanya21kumar/Portfolio-Website) | Next.js · Tailwind · Vercel | Minimal, clean personal portfolio with dark theme |
-| 🎤 Hackathon Productivity App | Python · Flask · JS | Built-in speech-to-text, typing games for productivity
+| 🔐 [Decentralized Voting DApp](https://github.com/chaitanya21kumar/decentralised-voting-system) | Solidity · React · Node.js | Blockchain voting system with MongoDB |
+| 🎯 [Can You Hack It? (CTF)](https://github.com/chaitanya21kumar/Can-you-hack-it) | HTML · JS · CSS | CTF-style hacking game for learning web logic |
+| 🌐 [Portfolio Website](https://github.com/chaitanya21kumar/Portfolio-Website) | Next.js · Tailwind · Vercel | Personal responsive portfolio |
+| 🎤 Hackathon Productivity App | Python · Flask · JS | Speech-to-text + typing app to boost productivity
 
 ---
 
 ## 🥇 Achievements
 
-- ✅ **Codeforces**: Max Rating **1206** (Pupil) | 279+ Problems  
-- 🧠 **500+** DSA Problems Solved | 199+ Days of Streak  
-- 🥈 **CodeChef**: **2★** (Rating: 1460) | Global Rank: 397  
-- ☁️ **Google Cloud Arcade Champion** (58k+ points)  
-- 🥉 **Top 12** Rank in TPC CP Contest (IIITDMJ)
+- 🧠 **Codeforces**: Max Rating **1206** (Pupil) | 279+ Problems Solved  
+- ✅ **CodeChef**: 2★ (1460 Rating), Global Rank 397 (Starters)  
+- 🧠 **500+ DSA Problems Solved** | Streak: 199+ Days  
+- 🥇 **Google Cloud Arcade Champion** (58k+ points)  
+- 🥉 Top 12 in **TPC CP Contest** (IIITDMJ)
 
 ---
 
-<!-- PROFILE VIEWS -->
+<!-- VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaitanya21kumar&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=chaitanya21kumar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 <!-- WAVE FOOTER -->
