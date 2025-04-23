@@ -1,5 +1,4 @@
 <!-- WAVE HEADER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%"/>
 
 <h1 align="center">Hey there, I'm Chaitanya Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
