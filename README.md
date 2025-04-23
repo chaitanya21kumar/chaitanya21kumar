@@ -1,5 +1,5 @@
 <!-- WAVE HEADER -->
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%"/>
 
 <h1 align="center">Hey there, I'm Chaitanya Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/chaitanya-kumar-071062296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/chaitanya21kumar"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/></a>
   <a href="https://chaitanya21kumar.github.io/Portfolio-Website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/c9ba5dfe-c06d-4315-9f98-486ffadafa34"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud"/></a>
 </p>
 
 ---
@@ -21,6 +22,7 @@
 ## 🧠 About Me
 - 🔭 Passionate about **Blockchain**, **C++**, **Embedded Systems**, and **DSA**
 - 🛠️ Developed firmware for **STM32**, handled **UART**, timers, GPIO, sensors
+- ⚛️ Experienced in building full-stack apps using **React**, Node.js, MongoDB
 - 🧠 Strong knowledge of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
 - 🌱 Currently building a **Decentralized Voting Platform**
 - 🎯 Solved **500+ DSA problems** across CF/CC/LC | Active CP Streak: **199+ days**
@@ -93,6 +95,5 @@
   <img src="https://komarev.com/ghpvc/?username=chaitanya21kumar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
-
-
+<!-- FOOTER -->
 <p align="center"><i>"Consistency. Craftsmanship. Community contribution."</i></p>
