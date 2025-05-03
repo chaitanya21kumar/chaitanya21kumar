@@ -58,7 +58,7 @@
 
 | Category               | Technologies |
 |------------------------|--------------|
-| 🧠 Languages           | C++, Python, JavaScript, Solidity |
+| 🧠 Languages           | C++, Python, JavaScript, Solidity, Rust |
 | 🔗 Blockchain          | Ethereum, BIP32/39/44/174, PSBTs |
 | 🌐 Web Dev             | React, Node.js, Express, Tailwind |
 | 🧬 Databases           | MongoDB, PostgreSQL, Redis |
