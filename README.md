@@ -19,8 +19,7 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Passionate about **Blockchain**, **C++**, **Embedded Systems**, and **DSA**
-- 🛠️ Developed firmware for **STM32**, handled **UART**, timers, GPIO, sensors
+- 🔭 Passionate about **Blockchain**, **Web Dev**, **C++**, and **DSA**
 - ⚛️ Experienced in building full-stack apps using **React**, Node.js, MongoDB
 - 🧠 Strong knowledge of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
 - 🌱 Currently building a **Decentralized Voting Platform**
