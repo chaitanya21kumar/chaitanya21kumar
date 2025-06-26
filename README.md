@@ -81,7 +81,7 @@
 ## 🥇 Achievements
 
 - 🧠 **Codeforces**: Max Rating **1206** (Pupil) | 279+ Problems Solved  
-- ✅ **CodeChef**: 2★ (1460 Rating), Global Rank 397 (Starters)  
+- ✅ **CodeChef**: 3★ (1717 Rating), Global Rank 22 (Starters 192)  
 - 🧠 **500+ DSA Problems Solved** | Streak: 199+ Days  
 - 🥇 **Google Cloud Arcade Champion** (58k+ points)  
 - 🥉 Top 12 in **TPC CP Contest** (IIITDMJ)
