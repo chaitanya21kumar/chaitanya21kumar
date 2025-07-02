@@ -23,7 +23,7 @@
 - ⚛️ Experienced in building full-stack apps using **React**, Node.js, MongoDB
 - 🧠 Strong knowledge of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
 - 🌱 Currently building a **Decentralized Voting Platform**
-- 🎯 Solved **500+ DSA problems** across CF/CC/LC | Active CP Streak: **199+ days**
+- 🎯 Solved **500+ DSA problems** across CF/CC/LC | Total Active Days : **250+**
 
 ---
 
