@@ -17,11 +17,11 @@
 
 ## 🧠 About Me
 
-- 🔭 Passionate about **Blockchain**, **Web Dev**, **C++**, and **DSA**
-- 💡 Building real-world apps used by 250+ users
-- 🔐 Proficient in **Ethereum**, BIPs, PSBTs, MetaMask auth
-- 🌐 Creator of **ContestPulse** & **Decentralized Voting System**
-- 📘 Solved **600+ DSA problems** across CF/CC/LC/GFG
+- 💡 Passionate about **Blockchain**, **Web Dev**, **C++**, and **DSA**
+- 🛠️ Built multiple production-ready platforms solving real-world problems
+- 🔐 Deep understanding of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
+- 📊 Currently building **ContestPulse** & a **Decentralized Voting System**
+- 🎯 Solved **600+ DSA problems** across CF, CC, LC, GFG | Total Active Days: **250+**
 
 ---
 
