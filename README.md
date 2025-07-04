@@ -28,7 +28,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,solidity,python,java,javascript,html,css,nodejs,react,nextjs,mongodb,postgres,redis,express,docker,git,aws,gcp,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,solidity,python,java,javascript,react,nextjs,nodejs,express,mongodb,postgres,redis,html,css,docker,git,aws,gcp,linux,vscode" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🚀 [ContestPulse](https://github.com/chaitanya21kumar/contestpulse) · [Live](https://contestpulse-chaitanya21kr.netlify.app/) | Next.js · Firebase · Puppeteer | CP contest tracker + email alerts, 100+ daily users |
-| 🔐 [Decentralized Voting DApp](https://github.com/chaitanya21kumar/decentralised-voting-system) | Solidity · React · MongoDB · Node.js | Secure Ethereum-based voting system with MetaMask & JWT |
+| 🚀 [ContestPulse](https://github.com/chaitanya21kumar/contestpulse) · [Live](https://contestpulse-chaitanya21kr.netlify.app/) | Next.js · React.js · Firebase · Puppeteer · REST APIs | Smart automated CP contest tracker with scraping + real-time email alerts |
+| 🔐 [Decentralized Voting DApp](https://github.com/chaitanya21kumar/decentralised-voting-system) | Solidity · React · MongoDB · Node.js | Secure Ethereum-based voting system with JWT authentication, built using Hardhat |
 
 ---
 
