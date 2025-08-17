@@ -39,6 +39,7 @@
 |--------|------|-------------|
 | 🚀 [ContestPulse](https://github.com/chaitanya21kumar/contestpulse) · [Live](https://contestpulse-chaitanya21kr.netlify.app/) | Next.js · React.js · Firebase · Puppeteer · REST APIs | Smart automated CP contest tracker with scraping + real-time email alerts |
 | 🔐 [Decentralized Voting DApp](https://github.com/chaitanya21kumar/decentralised-voting-system) | Solidity · React · MongoDB · Node.js | Secure Ethereum-based voting system with JWT authentication, built using Hardhat |
+| 🎙️ [Saarthi — Agentic Collections Studio](https://github.com/chaitanya21kumar/saarthi) · [Demo](https://youtu.be/eYR_YPnh0v0?si=hVbZ7BRDfUVNIoAN) | Node.js · Express · Twilio · OpenAI (NLP) · MongoDB · WhatsApp Cloud API · **Blockchain (audit trail)** | Agentic voicebot for EMI collections: **TwinTower** ranking + **Bandit Selection**; autodial + multilingual NLP; WhatsApp pay-links; blockchain-backed/verifiable call-log hashing; RBI-compliant retry windows; live analytics dashboard |
 
 ---
 
@@ -70,7 +71,6 @@
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/chaitanya21kumar/snk/output/snake-light.svg">
   </picture>
 </p>
-
 
 ---
 
